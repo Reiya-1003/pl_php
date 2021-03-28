@@ -1,0 +1,123 @@
+body {
+    background-image: url("/PL_db/imege/haikei.jpg");
+    background-repeat: space;
+    background-color:rgba(255,255,255,0.8);
+    background-blend-mode:lighten;
+    background-color: darkgray;
+    
+}
+
+.main {
+    background-image: url("/PL_db/imege/haikei.jpg");
+    background-repeat: space;
+    background-color:rgba(255,255,255,0.8);
+    background-blend-mode:lighten;
+    background-color: darkgray;
+
+
+}
+
+
+.title {
+    text-align: center;
+    border: 5px solid #000000;
+    font-size: 32px;
+    font-weight: bold;
+    margin: 0 0 20px;
+    padding: 15px 20px;
+    background-color: #081f2c;
+    font-family: 'Londrina Shadow', cursive;
+    color: white;
+ 
+}
+
+.savepage {
+    font-family: 'Londrina Shadow', cursive;
+    color: black;
+    font-size: 100px;
+}
+
+.navbar-brand {
+    color: white;
+}
+
+.date {
+    width: 600px;
+    height: 40px;
+    font-size: 60px;
+    float: right;
+     text-align: center;
+     font-family: 'Londrina Shadow', cursive;
+}
+
+.game {
+    width: 600px;
+    height: 40px;
+    margin-top: -20px;
+    font-size: 60px;
+    text-align: center;
+    font-family: 'Londrina Shadow', cursive;
+}
+
+.game2 {
+    font-size: 20px;
+}
+
+
+
+
+.home {
+    margin-top: 160px;
+    text-align: center;
+    font-family: 'Londrina Shadow', cursive;
+    
+    
+}
+
+.hometeam {
+    font-size: 50px;
+    color: white;
+}
+
+.away {
+    text-align: center;
+    font-family: 'Londrina Shadow', cursive;
+    
+    
+    
+  
+}
+
+.awayteam {
+    font-size: 50px;
+    color:white;
+}
+
+.vs {
+    font-size: 90px;
+    text-align: center;
+    font-family: 'Londrina Shadow', cursive;
+    margin-top: 25px;
+    
+   
+}
+.save {
+    text-align: center;
+    font-family: 'Londrina Shadow', cursive;
+    font-size: 50px;
+}
+
+.arcive {
+    text-align: right;
+    font-family: 'Londrina Shadow', cursive;
+    color: white;
+    font-size: 20px;
+}
+
+.top {
+    text-align: left;
+    font-family: 'Londrina Shadow', cursive;
+    color: white;
+    font-size: 20px;
+
+}
